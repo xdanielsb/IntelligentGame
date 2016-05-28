@@ -1,3 +1,7 @@
+## This file contents the test for the logic in the script probabilistic dynamic programing
+## author: Daniel Fernando Santos Bustos
+
+
 from __future__ import print_function
 from Game2Player import Game2Player
 from GameNPlayers import GameNPlayers
