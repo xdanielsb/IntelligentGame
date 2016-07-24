@@ -3,9 +3,9 @@
 
 
 from __future__ import print_function
-from Game2Player import Game2Player
-from GameNPlayers import GameNPlayers
-from Player import Player
+from PDP.Game2Player import  Game2Player  
+from PDP.GameNPlayers import  GameNPlayers
+from PDP.Player import  Player
 
 
 def testProgram(game, numStages, probabilities ,apuesta):
